@@ -1,1 +1,5 @@
-
+tittle: Lawrence Rabasotho
+#logo: /assets/img/lawrence1.png
+#description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
